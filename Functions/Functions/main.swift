@@ -82,3 +82,5 @@ print("Summation Result: \(sumResult)")
 f.multiplication(n1: 10, n2: 20)
 f.multiplication(n1: 10.0, n2: 20.2)
 f.multiplication(n1: 10, n2: 20, name: "Erkut")
+
+print("aleykümselam")
